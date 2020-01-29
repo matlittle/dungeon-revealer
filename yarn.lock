@@ -4143,6 +4143,13 @@ eslint-config-react-app@^5.0.2:
   dependencies:
     confusing-browser-globals "^1.0.9"
 
+eslint-config-react-app@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-5.1.0.tgz#a37b3f2d4f56f856f93277281ef52bd791273e63"
+  integrity sha512-hBaxisHC6HXRVvxX+/t1n8mOdmCVIKgkXsf2WoUkJi7upHJTwYTsdCmx01QPOjKNT34QMQQ9sL0tVBlbiMFjxA==
+  dependencies:
+    confusing-browser-globals "^1.0.9"
+
 eslint-import-resolver-node@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.2.tgz#58f15fb839b8d0576ca980413476aab2472db66a"
@@ -4209,15 +4216,15 @@ eslint-plugin-jsx-a11y@6.2.3, eslint-plugin-jsx-a11y@6.x:
     has "^1.0.3"
     jsx-ast-utils "^2.2.1"
 
-eslint-plugin-react-app@6.0.3:
-  version "6.0.3"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-react-app/-/eslint-plugin-react-app-6.0.3.tgz#96ddd0c884d7556e9ce24e5cd8959f7574f9cf9c"
-  integrity sha512-g/q4QmzUbrg+Q0ZShQbQy58ZBkVDhPRBP17Xu39qePcsmS/mUasiR4pqhWLwEfhAUXHMiWEB/olWaa/vpRli+g==
+eslint-plugin-react-app@6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-react-app/-/eslint-plugin-react-app-6.1.0.tgz#155a470cc55827e02dfc01f69a94c845ae0b4cb7"
+  integrity sha512-XQVsokZITsbMOHYBRWU7pVaUp4SWoQ+NmoLKQq+RLMlcfYi4cIitXGggaHp3s3WBbtXRTcIudI7YKjCQWdGpAA==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.x"
     "@typescript-eslint/parser" "2.x"
     babel-eslint "10.x"
-    eslint-config-react-app "^5.0.2"
+    eslint-config-react-app "^5.1.0"
     eslint-plugin-flowtype "3.x"
     eslint-plugin-import "2.x"
     eslint-plugin-jsx-a11y "6.x"
